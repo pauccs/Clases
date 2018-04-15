@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523161452 source:c:\users\usuario\downloads\facultad\clase4_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1523161038 c:\users\usuario\downloads\facultad\clase4_tp\utn.h
+
+1523161597 source:c:\users\usuario\downloads\facultad\clase4_tp\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
