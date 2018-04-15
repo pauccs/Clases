@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523649394 source:c:\test\chiossone\paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523657280 source:e:\chiossone\paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

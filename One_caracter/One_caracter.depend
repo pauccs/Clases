@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523486006 source:e:\chiossone\one_caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

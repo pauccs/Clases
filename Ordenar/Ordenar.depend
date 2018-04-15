@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523395317 source:c:\test\chiossone\ordenar\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523395948 source:e:\chiossone\chiossone\ordenar\main.c
+	<stdio.h>
+	<stdlib.h>
+

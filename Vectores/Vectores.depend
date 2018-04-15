@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523395078 source:c:\test\chiossone\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523394827 source:c:\test\chiossone\vectores\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+
+1523395742 source:e:\chiossone\chiossone\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+

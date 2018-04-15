@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523764978 source:e:\chiossone\minmay\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521841798 source:c:\test\chiossone\prueba\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
