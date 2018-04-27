@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524607358 source:c:\test\chiossone\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+
